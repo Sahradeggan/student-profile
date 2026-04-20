@@ -4,6 +4,7 @@ Sahra Faarax Maxamed
 - HTML
 - CSS
 - Java Script
+- C++
 ## Goals
 - Become a full stack web developer
 - Build real projects
